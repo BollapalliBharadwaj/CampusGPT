@@ -20,7 +20,6 @@ out/
 # Multer uploads directory
 uploads/
 backend/uploads/
-CampusGPT/backend/uploads/
 
 # OS metadata
 .DS_Store

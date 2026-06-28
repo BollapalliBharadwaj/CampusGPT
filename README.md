@@ -6,7 +6,7 @@ AI-powered document intelligence. Premium enterprise SaaS UI (Linear/Vercel qual
 
 ### 1. Backend
 ```bash
-cd CampusGPT/backend
+cd backend
 cp .env.example .env          # fill in your keys
 npm install
 node server.js                # runs on :5000
